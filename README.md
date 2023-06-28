@@ -1,5 +1,6 @@
 # Deployment
-This readme file provides a comprehensive guide on how to deploy a Ruby on Rails application. It covers various aspects of the deployment process, including setting up a production environment, configuring the application server, database setup, and handling of static assets.
+This file provides a  guide on how to deploy a Ruby on Rails application. It covers various aspects of the deployment process, including setting up a production environment, configuring the application server, database setup, and handling of static assets.
+
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Setting up Production Environment](#setting-up-production-environment)
@@ -58,3 +59,5 @@ Here are some useful resources for Ruby on Rails deployment:
 - Puma documentation: https://github.com/puma/puma
 - Unicorn documentation: http://unicorn.bogomips.org/
 Feel free to explore these resources for detailed information on specific deployment topics.
+## Thanks for Learning with Us!
+![](https://media.giphy.com/media/l0MYAs5E2oIDCq9So/giphy.gif)
