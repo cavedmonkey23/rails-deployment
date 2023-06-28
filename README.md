@@ -1,4 +1,4 @@
-# Ruby on Rails Deployment Readme
+# Deployment
 This readme file provides a comprehensive guide on how to deploy a Ruby on Rails application. It covers various aspects of the deployment process, including setting up a production environment, configuring the application server, database setup, and handling of static assets.
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
